@@ -1,4 +1,4 @@
-@smoke
+@smoke  @PRG10-158
 Feature: homepage functionality
   Agile story: As user i should see desktop options to download on the homepage.
 
